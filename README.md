@@ -1,4 +1,4 @@
-Day 2 
+Day 2 13 sep 2025
 
 Subscript - Pulling out a specific character from a set of strings is called substring
 Eg - print("Hello" [4])
